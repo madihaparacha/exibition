@@ -6,12 +6,12 @@ h4,
 h5,
 h6 {
   font-family: 'Catamaran';
-  font-weight: 30em;
+  font-weight: 20px;
 }
 a:hover{
 	text-decoration: none;
 }
 p{
 	font-family: 'verdena';
-	font-size: 21px;
+	font-size: 15px;
 }
