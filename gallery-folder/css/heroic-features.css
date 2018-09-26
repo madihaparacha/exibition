@@ -11,6 +11,8 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
+    background-color: #988f8f;
+
   }
 }
 
